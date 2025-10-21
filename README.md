@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Gosavi</h1>
 <h3 align="center">A Full Stack Developer from IIIT Vadodara</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavg05&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay-Gosavi1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanmay-Gosavi1&label=Profile%20views&color=0e75b6&style=flat" alt="Tanmay-Gosavi1" /> </p>
 
 # 💫 About me:
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" >
